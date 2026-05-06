@@ -1,0 +1,14 @@
+# Ignora tudo
+*
+
+# Mantém diretórios para o Git conseguir navegar
+!*/
+
+# Mantém arquivos .cpp
+!*.cpp
+
+# Mantém arquivos .md
+!*.md
+
+# Mantém .gitignore
+!*.gitignore
